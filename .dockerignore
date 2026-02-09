@@ -1,0 +1,14 @@
+node_modules
+npm-debug.log
+.git
+.gitignore
+.vscode
+.idea
+*.md
+.dockerignore
+.env
+.env.local
+dist
+coverage
+jest.config.js
+*.tsbuildinfo
